@@ -31,10 +31,10 @@ object mijo {
 		if (estaMojado) {return 15}
 			else {return 20 } 
 	}
-	
+	}
 object canelones {
-	var tieneSalsa
-	var tieneQueso
+	var tieneSalsa = false
+	var tieneQueso = false
 	const base = 20
 	const plusSalsa = 5
 	const plusQueso = 7
