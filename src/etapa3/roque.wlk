@@ -6,4 +6,6 @@ object roque {
 		pepita.volar(10)
 		pepita.comer(alpiste, 300)
 		pepita.volar(5)
+		pepita.haceLoQueQuieras()
+		}
 	}  
