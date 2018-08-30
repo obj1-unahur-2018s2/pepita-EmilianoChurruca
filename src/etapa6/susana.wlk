@@ -11,4 +11,4 @@ object susana {
 		aveAEntrenar.volar(20)
 	}
 	method pupiloActual() {return aveAEntrenar}
-	}  // implementar
+	}  
